@@ -1,3 +1,4 @@
-# My Awesome Book
+# Q&A and Examples for Nuxt/Vue JS
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+I use Vue and Nuxt everday. I use it for personal and business - for clients and my job. On a daily basis, I try and ask myself new questions about the framework and as time allows me, I will answer these questions. This book is a documentation of my questions, and answers.
+
