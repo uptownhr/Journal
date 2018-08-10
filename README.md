@@ -1,4 +1,14 @@
-# Q&A and Examples for Nuxt/Vue JS
+# My Engineering Journal
 
-I use Vue and Nuxt everday. I use it for personal and business - for clients and my job. On a daily basis, I try and ask myself new questions about the framework and as time allows me, I will answer these questions. This book is a documentation of my questions, and answers.
+Every engineer has a stack. I will be exploring my discoveries by logging my questions and the paths I've taken to arrive at answers.
+
+
+
+### My stack
+
+* Node / Express
+* Mongodb / Mongoose
+* Vue / Nuxt
+
+
 
