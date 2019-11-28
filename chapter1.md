@@ -1,4 +1,4 @@
-# Question: Are dynamic data generated with the static site
+# Question: Async Data generated with the static site
 
 ## Answer: Yes
 
